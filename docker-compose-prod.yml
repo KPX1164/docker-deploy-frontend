@@ -2,6 +2,6 @@ version: '3.3'
 
 services:
   frontend:
-    image: hakush1n/234-deploylab-frontend:latest
+    image: hakush1n/234-deploylab-frontend-prod:latest
     ports:
       - "9999:80"
